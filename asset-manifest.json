@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moviesscope/static/css/main.37731e61.css",
+    "main.js": "/moviesscope/static/js/main.73a9e41a.js",
+    "index.html": "/moviesscope/index.html",
+    "main.37731e61.css.map": "/moviesscope/static/css/main.37731e61.css.map",
+    "main.73a9e41a.js.map": "/moviesscope/static/js/main.73a9e41a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37731e61.css",
+    "static/js/main.73a9e41a.js"
+  ]
+}
