@@ -32,3 +32,62 @@ Explore trending movies, discover new releases, and search your favorite films i
 - **User ratings** and vote count
 - **Release date** and language
 - **High-quality** posters and backgrounds
+
+## 🛠️ Technologies Used
+
+- **React.js** - Frontend framework
+- **Tailwind CSS** - Utility-first CSS framework
+- **Lucide React** - Modern icon library
+- **OpenWeatherMap API** - Weather data source
+- **GitHub Pages** - Deployment platform
+
+## 📦 Installation & Setup
+
+### Prerequisites
+- Node.js (v14 or higher)
+- npm or yarn package manager
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Floky959/weatherappmorocco.git
+cd weatherappmorocco
+```
+
+### 2. Install dependencies
+```bash
+npm install
+```
+
+### 3. Get your API key
+1. Visit [TMDB]((https://www.themoviedb.org/))
+2. Sign up for a free account
+3. Get your API key
+
+### 4. Configure API key
+Replace the API key in `src/componants/api.js`:
+```javascript
+const apiKey = 'YOUR_TMDB_API_KEY_HERE';
+```
+
+### 5. Start the development server
+```bash
+npm start
+```
+
+The app will open at `http://localhost:3000`
+
+## 🚀 Deployment
+
+### Deploy to GitHub Pages
+```bash
+# Install gh-pages
+npm install --save-dev gh-pages
+
+# Add to package.json
+"homepage": "https://yourusername.github.io/moviesscope",
+
+# Deploy
+npm run deploy
+```
+
+⭐ **Star this repository if you found it helpful!**
