@@ -35,11 +35,12 @@ Explore trending movies, discover new releases, and search your favorite films i
 
 ## 🛠️ Technologies Used
 
-- **React.js** - Frontend framework
-- **Tailwind CSS** - Utility-first CSS framework
-- **Lucide React** - Modern icon library
-- **OpenWeatherMap API** - Weather data source
-- **GitHub Pages** - Deployment platform
+- **React 18**
+- **Tailwind CSS**
+- **React Router DOM**
+- **Ant Design (Carousel)**
+- **Lucide React (Icons)**
+- **TMDB API**
 
 ## 📦 Installation & Setup
 
@@ -49,8 +50,8 @@ Explore trending movies, discover new releases, and search your favorite films i
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Floky959/weatherappmorocco.git
-cd weatherappmorocco
+git clone https://github.com/Floky959/moviesscope.git
+cd moviesscope
 ```
 
 ### 2. Install dependencies
